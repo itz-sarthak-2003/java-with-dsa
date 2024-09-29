@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/java-with-dsa.iml" filepath="$PROJECT_DIR$/.idea/java-with-dsa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sumWhile/sumWhile.iml" filepath="$PROJECT_DIR$/sumWhile/sumWhile.iml" />
     </modules>
   </component>
 </project>
