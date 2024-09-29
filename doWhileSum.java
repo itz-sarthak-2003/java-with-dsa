@@ -1,6 +1,6 @@
 public class doWhileSum {
     public static void main(String[] args) {
-        int i=0,sum=0;
+        int i=1,sum=0;
         do{
             sum=sum+i;
             i++;
